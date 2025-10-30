@@ -1,0 +1,24 @@
+﻿"External"= 1000mm
+
+"External_length"= 900mm
+
+"External_wdith"= 5000mm
+
+"Front_wall_height"= 2400mm
+
+"Rear_wall_height"= 2300mm
+
+"window_height_off_the_ground"= 1100mm
+
+"Stud_center_spacing"= 600mm
+
+"Wall_panel_height"= 2700mm
+
+"wall_panel_width"= 1150mm
+
+"wall_panel_thickness"= 50mm
+
+"Door_height"= 2040mm
+
+"Door_width"= 920mm
+
